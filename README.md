@@ -16,3 +16,19 @@ instrucciones:
 - para la pruebas de los endpoints se puede utilizar una coleccion de postman donde esta definido cada endpoints .
 - se adjunto la carpeta recursos donde esta contenido las evidencias de las pruebas de cada endpoint, esquema de la base
   de datos.
+
+## Ficha del proyecto
+
+API de mercado en Java con código Maven, recursos y definición Docker.
+
+### Contenido
+
+- [src](./src), [recursos](./recursos), [pom.xml](./pom.xml), [Dockerfile](./Dockerfile).
+
+### Uso
+
+Revisa [pom.xml](./pom.xml) para consultar la versión de Java, las dependencias y los módulos Maven. Configura los servicios externos por separado.
+
+### Origen
+
+- [Repositorio de origen](https://github.com/senior23enginer/api-market)
